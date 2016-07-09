@@ -1,0 +1,6 @@
+Hi,
+after upgrading to the latest and greatest my website is messed up and this msg is front and center: 
+Warning: call_user_func_array() expects parameter 1 to be a valid callback, class 'ReduxFramework' does not have a method 'vc_fixes' in F:\InstantWP_4.4.2\iwpserver\htdocs\wordpress\wp-includes\plugin.php on line 525
+What gives?
+Thanks.
+Bo
